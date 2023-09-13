@@ -4,7 +4,7 @@
 
 - idade 15 🌻
 
-- estou estdando no [Alura](httlp://www.alura.com.br)
+- estou estdando no [Alura](https://www.alura.com.br)
 
 ## Se quiser entrar em contato comigo
 julia.dominschek@escola.pr.gov.br
